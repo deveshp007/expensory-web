@@ -1,0 +1,22 @@
+.logo-and-text {
+    display: flex;
+    align-items: center;
+  }
+
+  .logo-and-text img {
+    width: 50px; /* adjust the width to the size of your logo */
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  
+ .chart-col {
+  display: flex;
+  justify-content: center;
+}
+
+.chart-wrapper {
+  width: 300px;
+  height: 300px;
+}
+
+  
