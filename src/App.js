@@ -30,17 +30,17 @@ function App() {
             <ExpenseTotal />
           </div>
         </div>
-		<br/>
+        <br />
         <h3 className="mt-3">Add Expense</h3>
         <div className="row mt-3">
           <div className="col-lg-8">
             <AddExpenseForm />
-          </div>       
-            <div className="col-lg-4 chart-col">
-              <div className="chart-wrapper">
-                <ExpenseChart />
-              </div>
+          </div>
+          <div className="col-lg-4 chart-col">
+            <div className="chart-wrapper">
+              <ExpenseChart />
             </div>
+          </div>
         </div>
 
         <h3 className="mt-3">Expenses</h3>
